@@ -1,0 +1,30 @@
+html{
+    background-color: rgb(4, 0, 25);
+    color: white;
+    text-align: center;
+    display: inline-block;
+}
+
+.caixa1 {
+    background-color: red;
+    height: 150px;
+    width: 150px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.caixa2 {
+    background-color: blue;
+    height: 150px;
+    width: 150px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.caixa3 {
+    background-color: green;
+    height: 150px;
+    width: 150px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
